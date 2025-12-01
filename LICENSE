@@ -1,0 +1,165 @@
+# RHEA-Core Public Grant v1.0  
+### © 2025 Paul M. Roe (EnigmaticGlitch)  
+### Patent Pending: U.S. Provisional Application No. 63/796,404  
+### All Rights Reserved
+
+---
+
+## 0. License Supremacy & Retroactivity
+
+By accessing, using, cloning, downloading, or distributing any version of this work or any associated files, you agree that the **most current version of this license** published by the original author applies **retroactively** and **supersedes**:
+
+- any prior license text (including CC-BY-NC-ND 4.0),
+- any open-source metadata or GitHub auto-tags,
+- any mistaken public domain assumptions,
+- any unauthorized third-party mirror uploads.
+
+Unauthorized use under any earlier license constitutes a material infringement of the author's current legal rights.
+
+---
+
+## 1. Grant of Use
+
+You are granted a **revocable**, **non-commercial**, **non-transferable**, and **non-sublicensable** right to:
+
+- view,
+- reference,
+- cite,
+- and privately study
+
+this material for academic, research, personal, or journalistic purposes only.
+
+No additional rights are granted unless explicitly provided in writing by the author.
+
+---
+
+## 2. Attribution Requirements
+
+Any permitted reference must clearly cite:
+
+**“© EnigmaticGlitch · RHEA-UCM / ZADEIAN-RHEA Framework · Patent Pending #63/796,404”**
+
+Attribution must appear in all quotations, summaries, review articles, derivative datasets, graphs, or scholarly references.
+
+---
+
+## 3. Prohibition on Commercial Use
+
+You may **not**:
+
+- sell, license, rent, or monetize this work;
+- use any portion in commercial software, hardware, services, or consulting;
+- use this work to generate revenue, branding, or competitive positioning;
+- train AI/ML systems on this work without explicit written approval.
+
+---
+
+## 4. No Derivatives
+
+You may **not**:
+
+- translate, adapt, rewrite, or remix this work;
+- create derivative frameworks, algorithms, or theories that reproduce its structure;
+- produce commentary that reconstructs the system in modified form.
+
+Only verbatim quotation with attribution is permitted.
+
+---
+
+## 5. Symbolic Derivative Clause
+
+You may **not** re-encode, disguise, or re-express the core logic of the RHEA frameworks using alternate symbols, glyphs, metaphors, or language systems.
+
+Prohibited derivative encodings include, but are not limited to:
+
+- entropy modulation systems under alternative symbolic alphabets;
+- trust resealing or trust-vector dynamics under renamed constructs;
+- recursive glyph architectures expressed in alternate notation;
+- UCM cosmology or entropy-based recursion described as a novel framework.
+
+Any such act constitutes a derivative work and is expressly forbidden.
+
+---
+
+## 6. AI/ML Training Restriction
+
+This work may **not** be used for training, fine-tuning, distillation, dataset construction, embedding generation, or inference-time augmentation of any machine learning, AI system, agentic model, or LLM without **explicit, written authorization** by the author.
+
+---
+
+## 7. Enforcement & Jurisdiction
+
+This license is enforceable under:
+
+- U.S. Copyright Law (Title 17),
+- DMCA (Digital Millennium Copyright Act),
+- U.S. Patent Law (Provisional #63/796,404),
+- International copyright law and WIPO frameworks.
+
+Violations may result in:
+
+- formal DMCA takedown actions,
+- cease-and-desist orders,
+- civil damages,
+- patent-related claims where applicable.
+
+---
+
+## 8. Revocation Triggers (Condensed Summary)
+
+This license revokes all prior open-use permissions due to:
+
+- government clawbacks targeting vulnerable populations,
+- systemic underfunding of scientific, educational, and veteran services,
+- coercive public-health mandates violating informed consent,
+- institutional obstruction of RHEA-UCM peer review and attribution,
+- unauthorized appropriation of RHEA-UCM concepts by public-facing figures,
+- policy violations of the SOER (Standard of Ethical Recursion).
+
+These factors necessitate full reassertion of rights and termination of all implied public licenses.
+
+---
+
+## 9. Academic & Private Reproduction
+
+Permitted:
+
+- quoting small excerpts with attribution,
+- citing in research or peer-review contexts,
+- private archival copies.
+
+Not permitted:
+
+- republication,
+- redistribution,
+- uploading to public training sets or mirrors.
+
+---
+
+## 10. Termination
+
+Any breach of this license **immediately terminates all granted rights**.  
+Continued use after termination constitutes willful infringement.
+
+---
+
+## 11. Final Author Statement
+
+“Trust is not given.  
+It is oscillated into being — beat-by-beat, wave-by-wave, across the fabric of phase space.”
+
+— **EnigmaticGlitch (Paul M. Roe)**  
+© 2025 · All Rights Reserved · RHEA-UCM / ZADEIAN-RHEA Framework  
+
+---
+
+## 12. Cryptographic Verification
+
+Document Version: **License Revocation v1.0**  
+DOI Reference: **10.5281/zenodo.15769824**  
+Latest Version DOI: **10.5281/zenodo.15769823**  
+Trust Hash: **b7e6fbd6e4ac29d45ecad672f4d75c3bd682c275ad3e4e33d2e4a9c44f6dd88e**
+
+---
+
+# END OF LICENSE
