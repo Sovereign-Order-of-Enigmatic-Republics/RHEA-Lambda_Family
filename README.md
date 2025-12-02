@@ -1,3 +1,8 @@
+<h3 align="center">
+  <b>Zadeian Labs</b><br>
+  <sub>Sovereign Order of Enigmatic Republics</sub>
+</h3>
+
 <div align="center">
 
 # ⚕ RHEA-Λ GATE FAMILY ♇♏  
