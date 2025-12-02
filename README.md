@@ -5,7 +5,8 @@
 
 [![Prior Art](https://img.shields.io/badge/Prior_Art-Established_1_Dec_2025-red.svg)](https://github.com/Sovereign-Order-of-Enigmatic-Republics/RHEA-Reversible-Cell)  
 [![License](https://img.shields.io/badge/License-RHEA--Core_Public_Grant_v1.0-blue.svg)](LICENSE)  
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17783138-brightgreen.svg)](https://doi.org/10.5281/zenodo.17783138) ← (add after Zenodo upload)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17783138-brightgreen.svg)](https://doi.org/10.5281/zenodo.17783138) 
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17783650-brightgreen.svg)](https://zenodo.org/records/17783650) 
 
 ### A single CMOS-compatible gate that dynamically switches between  
 - **Binary** (standard irreversible NAND – full legacy compatibility)  
