@@ -16,7 +16,7 @@
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17783138-brightgreen.svg)](https://doi.org/10.5281/zenodo.17783138)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17783650-brightgreen.svg)](https://doi.org/10.5281/zenodo.17783650)
 
-[![License](https://img.shields.io/badge/License-RHEA--Core_Public_Grant_v1.0-blue.svg)](https://github.com/Sovereign-Order-of-Enigmatic-Republics/RHEA-Lambda_Family/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-RHEA--Core_Public_Grant_v2.1-blue.svg)](https://github.com/Sovereign-Order-of-Enigmatic-Republics/RHEA-Lambda_Family/blob/main/LICENSE)
 
 ## ~ Attribution Required · No Derivatives · Sovereign IP ~  
 ### **U.S. Provisional Patent Pending:** #63/796,404  
