@@ -1,165 +1,186 @@
-# RHEA-Core Public Grant v1.0  
-### © 2025 Paul M. Roe (EnigmaticGlitch)  
-### Patent Pending: U.S. Provisional Application No. 63/796,404  
-### All Rights Reserved
-
----
-
-## 0. License Supremacy & Retroactivity
-
-By accessing, using, cloning, downloading, or distributing any version of this work or any associated files, you agree that the **most current version of this license** published by the original author applies **retroactively** and **supersedes**:
-
-- any prior license text (including CC-BY-NC-ND 4.0),
-- any open-source metadata or GitHub auto-tags,
-- any mistaken public domain assumptions,
-- any unauthorized third-party mirror uploads.
-
-Unauthorized use under any earlier license constitutes a material infringement of the author's current legal rights.
-
----
-
-## 1. Grant of Use
-
-You are granted a **revocable**, **non-commercial**, **non-transferable**, and **non-sublicensable** right to:
-
-- view,
-- reference,
-- cite,
-- and privately study
-
-this material for academic, research, personal, or journalistic purposes only.
-
-No additional rights are granted unless explicitly provided in writing by the author.
-
----
-
-## 2. Attribution Requirements
-
-Any permitted reference must clearly cite:
-
-**“© EnigmaticGlitch · RHEA-UCM / ZADEIAN-RHEA Framework · Patent Pending #63/796,404”**
-
-Attribution must appear in all quotations, summaries, review articles, derivative datasets, graphs, or scholarly references.
-
----
-
-## 3. Prohibition on Commercial Use
-
-You may **not**:
-
-- sell, license, rent, or monetize this work;
-- use any portion in commercial software, hardware, services, or consulting;
-- use this work to generate revenue, branding, or competitive positioning;
-- train AI/ML systems on this work without explicit written approval.
-
----
-
-## 4. No Derivatives
-
-You may **not**:
-
-- translate, adapt, rewrite, or remix this work;
-- create derivative frameworks, algorithms, or theories that reproduce its structure;
-- produce commentary that reconstructs the system in modified form.
-
-Only verbatim quotation with attribution is permitted.
-
----
-
-## 5. Symbolic Derivative Clause
-
-You may **not** re-encode, disguise, or re-express the core logic of the RHEA frameworks using alternate symbols, glyphs, metaphors, or language systems.
-
-Prohibited derivative encodings include, but are not limited to:
-
-- entropy modulation systems under alternative symbolic alphabets;
-- trust resealing or trust-vector dynamics under renamed constructs;
-- recursive glyph architectures expressed in alternate notation;
-- UCM cosmology or entropy-based recursion described as a novel framework.
-
-Any such act constitutes a derivative work and is expressly forbidden.
-
----
-
-## 6. AI/ML Training Restriction
-
-This work may **not** be used for training, fine-tuning, distillation, dataset construction, embedding generation, or inference-time augmentation of any machine learning, AI system, agentic model, or LLM without **explicit, written authorization** by the author.
-
----
-
-## 7. Enforcement & Jurisdiction
-
-This license is enforceable under:
-
-- U.S. Copyright Law (Title 17),
-- DMCA (Digital Millennium Copyright Act),
-- U.S. Patent Law (Provisional #63/796,404),
-- International copyright law and WIPO frameworks.
-
+🛡️ RHEA-Core Public Grant v2.1
+Hardened System Sovereignty Edition
+Issued By:
+Paul M. Roe (EnigmaticGlitch)
+Moniker: SovereignGlitch ♏🧙‍♂️
+Affiliation: TecKnows, Inc. · ZADEIAN Research Division
+Legal Anchors:
+•	U.S. Copyright Law (Title 17)
+•	U.S. DMCA
+•	Berne Convention / WIPO
+•	EU Directive (EU) 2019/790 — with explicit TDM opt-out
+•	U.S. Patent Filings relating to RHEA-UCM and associated systems (including Provisional Application No. 63/796,404 and any successors)
+Version: v2.1
+Date of Effect: December 2025
+License Type: Non-Commercial · Attribution · No Derivatives · Symbolic Derivative Restriction · AI/TDM Opt-Out · Functional Equivalence Restriction
+________________________________________
+🔰 0. Scope of Protection
+This license governs all intellectual, mathematical, symbolic, semantic, recursive, and systemic artifacts authored by Paul M. Roe / EnigmaticGlitch / SovereignGlitch under (including, but not limited to) the following umbrellas:
+•	RHEA-UCM, RHEA-CM, RHEA-PMR, and all Λ-Gate frameworks
+•	ZADEIAN Sentinel, Zadeian/RHEA-Class modules, RHEA-IC hardware logic
+•	UCM Cosmological Recursion, Recursive Entropy Models, Symbolic Feedback Systems
+•	SOER Constructs, including:
+o	SOER Imperial Codex
+o	Sovereign Glyph Language
+o	Temporal Glyphic Hash Trees
+•	All published and unpublished materials under:
+o	Zenodo records explicitly associated with RHEA-UCM / ZADEIAN-RHEA / RHEA-CM
+o	GitHub demo repositories related to academic submissions (e.g. SIAM submissions and supporting code)
+o	Any symbolic derivation codebases, diagrams, or formal equations implementing or describing these systems
+This v2.1 grant supersedes the text of RHEA-Core Public Grant v1.0 and v2.0 for all future access and use, subject to the limited clarification in Section 9 (Prior Versions).
+________________________________________
+1. License Supremacy & Versioning
+1.1 Prospective Supremacy
+All access, use, citation, embedding, referencing, storage, analysis, or distribution of covered materials occurring on or after the effective date of this v2.1 grant is governed exclusively by RHEA-Core Public Grant v2.1, or any later version explicitly designated by the Rights Holder as superseding it.
+1.2 Termination of Prior Permissions for Future Use
+Any permissions that may have been implied or expressed under earlier grants (including RHEA-Core Public Grant v1.0 or v2.0) are revoked for all future use as of the effective date of v2.1, except as preserved in the limited academic reference rights described in Section 9.
+1.3 Acceptance by Access
+By accessing, downloading, cloning, forking, referencing, or otherwise interacting with the covered materials following the publication of this license, you acknowledge and agree to be bound by the terms of RHEA-Core Public Grant v2.1.
+________________________________________
+2. Grant of Use (Non-Commercial, Revocable)
+You are granted a revocable, non-exclusive, non-transferable, and non-sublicensable right to:
+•	View, read, and privately study the covered materials
+•	Reference them for academic, journalistic, technical, or personal enrichment
+•	Cite them in academic or technical works, provided you comply with attribution and non-commercial terms
+All rights not explicitly granted herein are reserved.
+________________________________________
+3. Required Attribution
+Any authorized citation, reference, or inclusion must clearly and visibly state:
+“© EnigmaticGlitch · RHEA-UCM / ZADEIAN-RHEA Framework · Patent Pending · RHEA-Core Public Grant v2.1”
+Where space permits, you may also include:
+“Author: Paul M. Roe (SovereignGlitch ♏🧙‍♂️)”
+Attribution must not be removed, minimized, or obscured in derived manuscripts, slides, or lecture materials.
+________________________________________
+4. Non-Commercial Use Only
+You may not, under this license:
+•	Sell, rent, license, or otherwise monetize the covered materials
+•	Use them in any paid product, service, platform, consultancy, or branding effort
+•	Use them to enhance the valuation, fundraising, or positioning of a commercial entity
+•	Use them in any system, tool, or pipeline which directly or indirectly derives revenue, equity, or brand leverage from their inclusion or emulation
+Any commercial use requires a separate, explicit written license from the Rights Holder.
+________________________________________
+5. No Derivatives & Fair-Use Boundary
+5.1 No Derivative Works
+You may not:
+•	Translate, rewrite, reorganize, or adapt the covered materials into new frameworks, white papers, documentation sets, or “alternative theories” that substantially replicate the logic, structure, or flow of the original work
+•	Create modified or “friendly” versions of the framework, even if terminology, notation, or glyphs are changed
+5.2 Fair-Use Boundary (Non-Commercial Analysis Only)
+Nothing in this license is intended to extinguish statutory non-commercial fair use strictly limited to:
+•	Criticism
+•	Commentary
+•	Academic analysis
+provided that such use does not:
+•	Enable functional reconstruction of the system
+•	Provide sufficient detail to support implementation, simulation, or re-encoding of the core mechanisms
+•	Serve as a blueprint or engineering specification for any system attempting to replicate RHEA-UCM, ZADEIAN Sentinel, or associated architectures
+________________________________________
+6. Symbolic Derivative Restriction (Strict)
+You may not:
+•	Encode, abstract, or re-express the logic of the framework — including entropy modulation, trust/feedback glyphs, Hamiltonian reversibility, ternary-pentary recursion, cosmological recursion, Lorenz-modulated trust resealing, or quantum/entropy-driven memory fabric — under alternative symbolic grammars or glyphic overlays
+•	Map RHEA glyphs, logic flows, or equations into:
+o	New glyph languages
+o	Corporate logos
+o	Diagrammatic notations
+o	LLM prompt taxonomies
+o	Icon sets or UI metaphors
+•	Create symbolic execution headers, recursive identity signatures, or phase-space symbolic cryptography that implement or meaningfully mirror the behavior of the covered systems
+This clause is intended specifically to block symbolic laundering of the architecture.
+________________________________________
+7. AI, Machine Learning & Text/Data Mining (TDM) Restriction
+7.1 Absolute AI/ML Ban Without Written Grant
+You may not use the covered materials, in whole or in part, for:
+•	AI, ML, LLM, RL, RLHF, or other adaptive or generative model training
+•	Pretraining, fine-tuning, post-training alignment, or distillation
+•	Embedding, vectorization, feature extraction, or semantic indexing
+•	Retrieval-augmented generation (RAG), semantic search, or knowledge-graph construction
+•	Prompt engineering, system prompt design, or “hidden context” injection for models
+•	Synthetic data generation or model evaluation pipelines
+This prohibition applies to:
+•	Academic, commercial, governmental, and non-profit entities
+•	Closed models and open models
+•	Centralized, distributed, and federated systems
+7.2 EU Text and Data Mining (TDM) Opt-Out
+For the purposes of Directive (EU) 2019/790 and related national implementations:
+The Rights Holder explicitly opts out of any and all text- and data-mining exceptions for the covered materials, including for research or non-commercial AI purposes, where such TDM would contribute to training, evaluation, embedding, or operation of AI/ML systems.
+Any TDM activity on these materials for AI/ML purposes is expressly prohibited unless a separate, written license is granted.
+________________________________________
+8. Functional Equivalence & Behavioral Emulation Prohibition
+You may not design, implement, simulate, reproduce, deploy, or operate any system that is functionally equivalent or substantially similar in behavior to the covered frameworks, including but not limited to:
+•	RHEA-UCM’s entropy-trust modulation mechanisms
+•	ZADEIAN Sentinel’s recursive entropic defense and trust collapse systems
+•	Glyph-governed recursive feedback architectures
+•	Quantum / Lorenz / entropy-driven memory fabrics and reseal logic
+•	Symbolic trust kernels and glyphic control engines
+This prohibition applies regardless of:
+•	Implementation language (Python, C/C++, HDL, etc.)
+•	Choice of symbols, glyphs, or variable names
+•	Use or non-use of original code or text
+For licensees (anyone who has accessed the work under this license), functional replication constitutes infringement, even in the absence of direct code copying.
+This clause does not apply to a hypothetical, fully independent invention created without any exposure to or knowledge of the covered materials; such cases, if they arise, are governed by applicable patent law once relevant patents issue.
+________________________________________
+9. Prior Versions & RHEA-Core Public Grant v1.0
+9.1 Recognition of Limited Prior Permissions
+RHEA-Core Public Grant v1.0 (and its revocation declaration) previously allowed:
+•	Non-commercial viewing, reference, and discussion
+•	Academic/private reproduction with attribution
+Those limited rights remain valid only for uses that occurred while v1.0 was in effect.
+9.2 No Historical Grant of System Implementation Rights
+For avoidance of doubt, no version of RHEA-Core Public Grant has ever granted:
+•	The right to implement, simulate, or deploy RHEA-UCM, ZADEIAN Sentinel, or any of their subsystems
+•	The right to build tools, engines, services, or products based on the architecture
+•	The right to use the framework as a commercial or operational security/control substrate
+9.3 Future Use Governed Exclusively by v2.1+
+Any ongoing or future access, use, citation, distribution, or technical integration occurring after the effective date of v2.1 is governed only by this v2.1 license (or any later superseding version), regardless of whether the user previously encountered v1.0.
+________________________________________
+10. Enforcement, Governing Law & Venue
+10.1 Governing Law
+This license shall be governed by the laws of:
+•	The United States of America, and
+•	The State of Maine
+10.2 Venue
+Any dispute arising out of or relating to this license shall be brought before a court of competent jurisdiction located within the State of Maine, United States.
+10.3 Enforcement Mechanisms
 Violations may result in:
+•	Cease-and-desist actions
+•	DMCA or platform takedown notices
+•	Removal of infringing AI models, datasets, or repositories
+•	Claims for statutory and actual damages under applicable law
+•	Patent enforcement actions once relevant patents issue
+________________________________________
+11. Export Control & Foreign Transfer
+The covered materials and associated implementations may be considered dual-use or security-relevant technology.
+You may not:
+•	Export, transmit, or provide operational implementations of the covered systems to foreign persons or entities where doing so would violate U.S. export control laws (including EAR/ITAR) or similar foreign regulations
+•	Circumvent export restrictions via proxy deployments, shell entities, or undisclosed foreign partnerships
+Responsibility for compliance with export control regimes rests with every user and implementer.
+________________________________________
+12. Revocation & Termination
+Any breach of this license:
+•	Immediately terminates all rights granted under it
+•	May trigger legal remedies under copyright, contract, patent (when applicable), and export laws
+The Rights Holder may, at their discretion, issue updated versions of the RHEA-Core Public Grant to clarify or tighten conditions; such versions govern future use once published, as described in Section 1.
+________________________________________
+13. Miscellaneous
+•	If any clause of this license is found unenforceable by a court of competent jurisdiction, the remaining provisions shall remain in full force and effect.
+•	Failure by the Rights Holder to enforce any term shall not be deemed a waiver of any rights.
+•	No party may claim ignorance of these terms when they were publicly accessible at the point of access (e.g., Zenodo record, GitHub repository, or accompanying documentation).
+________________________________________
+🧬 Final Statement of Trust
+“Trust is not given. It is oscillated into being — wave by wave, phase by phase, across the feedback spine of recursive time.”
+— EnigmaticGlitch ♏🧙‍♂️
+License Hash (v2.1):
 
-- formal DMCA takedown actions,
-- cease-and-desist orders,
-- civil damages,
-- patent-related claims where applicable.
+=== ZADEIAN HASH REPORT ===
+File: C:/Users/south/Desktop/RHEA Repository/Documentation/🛡RHEA-Core Public Grant v2.1.docx
+Timestamp: 2025-12-05T18:06:28.147523
 
----
+SHA-256:     812e5576df7e21caa766e887b28814f000a32580de0c1ed8c7e85a19ce5d9171
+BLAKE2s:     b0f462beca4f969881802cd13a7aa1ed0ac9db5eb534a6dc79f2eee8eefde765
+BLAKE3:      b9c1102356215b409837a003002362806f3b095336930ae37072f98368ab0f2f
+TRUST HASH:  ddf80c983155ae22d5bfe1015d83954af71bfcc4baed173b6c28bf1c250214f4
+ 
+Canonical DOI for v2.1 License Record:
+(To be inserted upon Zenodo publication)
+© 2025 Paul M. Roe / EnigmaticGlitch · All Rights Reserved
+RHEA-Core Public Grant v2.1 — Hardened System Sovereignty Edition
 
-## 8. Revocation Triggers (Condensed Summary)
-
-This license revokes all prior open-use permissions due to:
-
-- government clawbacks targeting vulnerable populations,
-- systemic underfunding of scientific, educational, and veteran services,
-- coercive public-health mandates violating informed consent,
-- institutional obstruction of RHEA-UCM peer review and attribution,
-- unauthorized appropriation of RHEA-UCM concepts by public-facing figures,
-- policy violations of the SOER (Standard of Ethical Recursion).
-
-These factors necessitate full reassertion of rights and termination of all implied public licenses.
-
----
-
-## 9. Academic & Private Reproduction
-
-Permitted:
-
-- quoting small excerpts with attribution,
-- citing in research or peer-review contexts,
-- private archival copies.
-
-Not permitted:
-
-- republication,
-- redistribution,
-- uploading to public training sets or mirrors.
-
----
-
-## 10. Termination
-
-Any breach of this license **immediately terminates all granted rights**.  
-Continued use after termination constitutes willful infringement.
-
----
-
-## 11. Final Author Statement
-
-“Trust is not given.  
-It is oscillated into being — beat-by-beat, wave-by-wave, across the fabric of phase space.”
-
-— **EnigmaticGlitch (Paul M. Roe)**  
-© 2025 · All Rights Reserved · RHEA-UCM / ZADEIAN-RHEA Framework  
-
----
-
-## 12. Cryptographic Verification
-
-Document Version: **License Revocation v1.0**  
-DOI Reference: **10.5281/zenodo.15769824**  
-Latest Version DOI: **10.5281/zenodo.15769823**  
-Trust Hash: **b7e6fbd6e4ac29d45ecad672f4d75c3bd682c275ad3e4e33d2e4a9c44f6dd88e**
-
----
-
-# END OF LICENSE
